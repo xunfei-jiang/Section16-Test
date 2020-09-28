@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Tracy - TracyCAlbers
 Cam - dorkycam
+=======
+Group Members:
+Abraham Chen
+Camrynn Robles-Dilley - dorkycam
+>>>>>>> a2f650d713748fabc822c5a551608df3470f98b6
